@@ -1,0 +1,3 @@
+# Passing a third argument, puts in the step size
+even_numbers = list(range(2, 11, 2))
+print(even_numbers)
